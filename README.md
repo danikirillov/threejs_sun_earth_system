@@ -1,2 +1,2 @@
-# threejs_sun_earth_system
+# threejs_cube
 Created with CodeSandbox
